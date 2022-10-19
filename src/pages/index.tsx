@@ -2,7 +2,7 @@ import styles from './index.less';
 
 export default function IndexPage() {
 
-  
+ 
 
 
   return (
@@ -10,6 +10,7 @@ export default function IndexPage() {
       <h1 className={styles.title}>Page index</h1>
       <h1 className={styles.title}>Page index</h1>
       <h1 className={styles.title}>Page index</h1>
+      <h2 className={styles.title}>Page index</h2>
     </div>
   );
 }
